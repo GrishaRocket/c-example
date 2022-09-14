@@ -1,0 +1,15 @@
+E:\studies\C#\examples\example3_summ_numero\bin\Debug\net6.0\example3_summ_numero.exe
+E:\studies\C#\examples\example3_summ_numero\bin\Debug\net6.0\example3_summ_numero.deps.json
+E:\studies\C#\examples\example3_summ_numero\bin\Debug\net6.0\example3_summ_numero.runtimeconfig.json
+E:\studies\C#\examples\example3_summ_numero\bin\Debug\net6.0\example3_summ_numero.dll
+E:\studies\C#\examples\example3_summ_numero\bin\Debug\net6.0\example3_summ_numero.pdb
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.csproj.AssemblyReference.cache
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.GeneratedMSBuildEditorConfig.editorconfig
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.AssemblyInfoInputs.cache
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.AssemblyInfo.cs
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.csproj.CoreCompileInputs.cache
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.dll
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\refint\example3_summ_numero.dll
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.pdb
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\example3_summ_numero.genruntimeconfig.cache
+E:\studies\C#\examples\example3_summ_numero\obj\Debug\net6.0\ref\example3_summ_numero.dll

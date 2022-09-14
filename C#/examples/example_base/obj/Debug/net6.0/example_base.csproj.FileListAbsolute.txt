@@ -1,0 +1,15 @@
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.csproj.AssemblyReference.cache
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.GeneratedMSBuildEditorConfig.editorconfig
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.AssemblyInfoInputs.cache
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.AssemblyInfo.cs
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.csproj.CoreCompileInputs.cache
+E:\studies\C#\examples\example_base\bin\Debug\net6.0\example_base.exe
+E:\studies\C#\examples\example_base\bin\Debug\net6.0\example_base.deps.json
+E:\studies\C#\examples\example_base\bin\Debug\net6.0\example_base.runtimeconfig.json
+E:\studies\C#\examples\example_base\bin\Debug\net6.0\example_base.dll
+E:\studies\C#\examples\example_base\bin\Debug\net6.0\example_base.pdb
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.dll
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\refint\example_base.dll
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.pdb
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\example_base.genruntimeconfig.cache
+E:\studies\C#\examples\example_base\obj\Debug\net6.0\ref\example_base.dll

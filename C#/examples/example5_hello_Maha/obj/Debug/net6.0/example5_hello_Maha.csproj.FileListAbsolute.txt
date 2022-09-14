@@ -1,0 +1,15 @@
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.csproj.AssemblyReference.cache
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.GeneratedMSBuildEditorConfig.editorconfig
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.AssemblyInfoInputs.cache
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.AssemblyInfo.cs
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.csproj.CoreCompileInputs.cache
+E:\studies\C#\examples\example5_hello_Maha\bin\Debug\net6.0\example5_hello_Maha.exe
+E:\studies\C#\examples\example5_hello_Maha\bin\Debug\net6.0\example5_hello_Maha.deps.json
+E:\studies\C#\examples\example5_hello_Maha\bin\Debug\net6.0\example5_hello_Maha.runtimeconfig.json
+E:\studies\C#\examples\example5_hello_Maha\bin\Debug\net6.0\example5_hello_Maha.dll
+E:\studies\C#\examples\example5_hello_Maha\bin\Debug\net6.0\example5_hello_Maha.pdb
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.dll
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\refint\example5_hello_Maha.dll
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.pdb
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\example5_hello_Maha.genruntimeconfig.cache
+E:\studies\C#\examples\example5_hello_Maha\obj\Debug\net6.0\ref\example5_hello_Maha.dll

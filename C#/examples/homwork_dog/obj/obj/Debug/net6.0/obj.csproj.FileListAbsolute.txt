@@ -1,0 +1,15 @@
+E:\studies\C#\examples\homwork_dog\obj\bin\Debug\net6.0\obj.exe
+E:\studies\C#\examples\homwork_dog\obj\bin\Debug\net6.0\obj.deps.json
+E:\studies\C#\examples\homwork_dog\obj\bin\Debug\net6.0\obj.runtimeconfig.json
+E:\studies\C#\examples\homwork_dog\obj\bin\Debug\net6.0\obj.dll
+E:\studies\C#\examples\homwork_dog\obj\bin\Debug\net6.0\obj.pdb
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.csproj.AssemblyReference.cache
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.GeneratedMSBuildEditorConfig.editorconfig
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.AssemblyInfoInputs.cache
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.AssemblyInfo.cs
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.csproj.CoreCompileInputs.cache
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.dll
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\refint\obj.dll
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.pdb
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\obj.genruntimeconfig.cache
+E:\studies\C#\examples\homwork_dog\obj\obj\Debug\net6.0\ref\obj.dll
